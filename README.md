@@ -1,5 +1,5 @@
 # Tester-Portfolio
-My Tester Portfolio
+
 ## About me
 My name is Emilia Chyła and this is my Tester Portfolio. Creativity, comunication skills and workin under pressure are things that I achived in my current work. Programming and testing are areas that recently strongly intereted me and which I progressivly developing to get more knowlegde about it. I schow you what I have already achived in subject of Testing.
 ## Courses and Programms
