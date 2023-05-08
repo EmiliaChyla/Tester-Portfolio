@@ -19,7 +19,7 @@ My name is Emilia Chyła and this is my Tester Portfolio. Creativity, comunicati
 - Trello, Jira
 - git, GitHub
 - API
-- Postmann
+- Postman
 - Testlink
 ## Books 
 - Zawód Tester
@@ -27,4 +27,5 @@ My name is Emilia Chyła and this is my Tester Portfolio. Creativity, comunicati
 - [testuj.pl](https://testuj.pl/)
 - [Testowanie Manualne](https://www.wyszkolewas.com.pl/category/testowanie_manualne/)
 - [Bug and Crash Reporting](https://www.shakebugs.com/blog/ultimate-87-item-mobile-app-test-checklist/?fbclid=IwAR2RiP26_QY2H4cCt8VC0r0XnvXCLBw9TdljnVeOMEdP2iY6oZWAYrzQAh0)
-
+## My Projects
+-[Postman Rest Api Tests](
