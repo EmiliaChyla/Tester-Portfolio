@@ -22,7 +22,7 @@ My name is Emilia Chyła and this is my Tester Portfolio. Creativity, comunicati
 - Postman
 - Testlink
 ## Books 
-- Zawód Tester
+- Zawód Tester - Radosław Smilgin
 ## Blogs that I read
 - [testuj.pl](https://testuj.pl/)
 - [Testowanie Manualne](https://www.wyszkolewas.com.pl/category/testowanie_manualne/)
