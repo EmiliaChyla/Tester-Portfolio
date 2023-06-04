@@ -30,4 +30,5 @@ My name is Emilia Chyła, and this is my Tester Portfolio. Creativity, communica
 ## My Projects
 - [Postman Rest Api Tests](https://github.com/EmiliaChyla/RestApi-Tests)
 ## My Certificates
-  - [Praktyczny kurs testowania oprogramowania](https://udemy-certificate.s3.amazonaws.com/image/UC-23332161-018b-49ad-b5e4-3cc3ebd50a82.jpg)
+ - [Praktyczny kurs testowania oprogramowania](https://udemy-certificate.s3.amazonaws.com/image/UC-23332161-018b-49ad-b5e4-3cc3ebd50a82.jpg)
+ - [Testowanie produktów cyfrowych](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0361b08c-0e77-4023-9965-7c39947ce50a.pdf)
