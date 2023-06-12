@@ -8,6 +8,7 @@ My name is Emilia Chyła, and this is my Tester Portfolio. Creativity, communica
 ## Courses and Programms
 - Praktyczny kurs testowania oprogramowania - Udemy
 - Testowanie produktów cyfrowych - Udemy
+- Automatyzacja testów: WebdriverIO + Typescript - Jenkins
 - COLT 1/2023 - Cherry- IT
 - Responsive Web Design - FreeCodeCamp
 - Web Development - Udemy
